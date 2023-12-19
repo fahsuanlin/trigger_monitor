@@ -2,7 +2,7 @@ function trigger_monitor_readSerialData(src,~)
 data = readline(src);
 if(isempty(strfind(data,'Output')))
 
-    //fprintf("TTL read! %s", data);
+    fprintf("TTL read! %s", data);
 
     clock_now=datetime("now");
     laps_time=clock_now-src.UserData.PortObj.input_clock;
