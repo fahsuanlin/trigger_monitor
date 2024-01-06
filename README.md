@@ -17,7 +17,7 @@ A toggle switch can bridge the received triggers to outputs.
 
 **NOTE:** In this App, "output" refers to the outputs from a computer and the "input" refers to inputs toward a computer.
 
-[[https://github.com/fahsuanlin/labmanual/blob/master/images/trigger_box_matlab.png]] 
+![](https://github.com/fahsuanlin/labmanual/blob/master/images/trigger_box_matlab.png) 
 
 To use this App.
 1. Call `trigger_box` in Matlab. (Make sure your path includes the two Matlab files listed above).
