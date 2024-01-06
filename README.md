@@ -2,7 +2,7 @@ A trigger box that sends and receives trigger signals from USB. It can also send
 
 ## 1. Arduino nano circuit
 The circuit below shows the schematics of a trigger box using Arduino Nano. 
-[[https://github.com/fahsuanlin/labmanual/blob/master/images/Schematic_trigger_box_arduino_nano_2023-12-18.png]] 
+![https://github.com/fahsuanlin/labmanual/blob/master/images/Schematic_trigger_box_arduino_nano_2023-12-18.png] 
 
 ## 2. Triggers inputs and outputs
 The trigger box can receive or send triggers. It blinks "blue" lights when sends one trigger. It blinks "green" lights when receives one triggers. Each trigger was set with a duration of 10 ms.
