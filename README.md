@@ -1,4 +1,6 @@
-A trigger box that sends and receives trigger signals from USB. It can also send (TTL) triggers to MagVenture TMS amplifers via a DB9 interface.
+#A trigger box that sends and receives trigger signals from USB. It can also send (TTL) triggers to MagVenture TMS amplifers via a DB9 interface.
+
+This is a copy of [the wiki page at labmanual](https://github.com/fahsuanlin/labmanual/wiki/44.-Trigger-box).
 
 ## 1. Arduino nano circuit
 The circuit below shows the schematics of a trigger box using Arduino Nano. 
