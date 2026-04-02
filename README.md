@@ -7,6 +7,9 @@ This document outlines the final specifications and operational logic for the **
 **1\. Hardware Interface Mapping**
 ![](https://github.com/fahsuanlin/labmanual/blob/master/images/Schematic_trigger_box_arduino_micro_2026-04-02.png) 
 
+![](https://github.com/fahsuanlin/labmanual/blob/master/images/trigger_box_matlab.png) 
+
+
 Based on the **12:17 AM Schematic**, the following physical ports are mapped to the Arduino Pro Micro logic. Note that **both J1 and J2 act as outputs** in this configuration.
 
 | Component | Schematic Label | Arduino Pin | Role | Description |
