@@ -3,7 +3,7 @@
 This document outlines the final specifications and operational logic for the **TTL Trigger Box** (Revision Date: 2026-04-02). This device is designed for synchronization between experimental software and external hardware (e.g., MRI, EEG, or TMS).
 
 ## ---
-![](https://github.com/fahsuanlin/labmanual/blob/master/images/Schematic_trigger_box_arduino_nano_2026-04-2.png) 
+![](https://github.com/fahsuanlin/labmanual/blob/master/images/Schematic_trigger_box_arduino_micro_2026-04-2.png) 
 
 **1\. Hardware Interface Mapping**
 
