@@ -5,7 +5,7 @@ This document outlines the final specifications and operational logic for the **
 ## ---
 
 **1\. Hardware Interface Mapping**
-![](https://github.com/fahsuanlin/trigger_monitor/blob/master/Schematic_trigger_box_arduino_micro.png) 
+![](https://github.com/fahsuanlin/trigger_monitor/blob/main/Schematic_trigger_box_arduino_micro.png) 
 
 Based on the **12:17 AM Schematic**, the following physical ports are mapped to the Arduino Pro Micro logic. Note that **both J1 and J2 act as outputs** in this configuration.
 
